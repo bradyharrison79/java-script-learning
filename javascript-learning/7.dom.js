@@ -18,8 +18,8 @@ para2.innerText = "This is the second paragraph.";
 para1.style.color = "green";
 para2.style.color = "red";
 
-// console.log(para1);
-// console.log(para2);
+//console.log(para1);
+//console.log(para2);
 
 // 3. Access by Tag Name : returns a collection of elements
 let items = document.getElementsByTagName("li");
